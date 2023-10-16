@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Roboto:ital,wght@0,400;1,900&display=swap');
+body{
+    font-family: 'Lugrasimo', cursive;
+}
+p{
+    color: green;
+    background-color:  yellow;
+    font-size: 20px;
+}
+.text{
+
+    color: yellow;
+    background-color:  green;
+    font-size: 20px;
+}
+    .font{
+        color: red;
+        background-color:  gray;
+        font-size: 20px;
+}
+    #bg{
+        background-color: black;
+        color: white;
+
+}
+
+
+
+
+
